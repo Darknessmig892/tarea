@@ -1,0 +1,5 @@
+Este es un archivo de prueba
+
+Tu nombre es: Miguel Angel
+Tus apellidos son: Marin Vasquez
+Tu Salario: No tienes porque aun estas estudiando
